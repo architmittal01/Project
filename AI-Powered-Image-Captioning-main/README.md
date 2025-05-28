@@ -37,16 +37,4 @@ This project focuses on automatically generating captions for images using deep 
 
 4. Upload images and view generated captions!
 
-## Future Improvements
 
-- Experiment with different pre-trained CNN architectures for feature extraction.
-- Explore advanced RNN architectures for caption generation.
-- Enhance the web application with additional features and improvements.
-
-## Contributors
-
-- Add your name if you contributed to this project!
-
----
-
-Feel free to adjust and customize this template further to fit your specific project details and preferences!
